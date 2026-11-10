@@ -1,16 +1,14 @@
-# Spring Boot Lab Programs (Partial Programs 4 to 7)
+# Spring Boot Lab Programs (Programs 4 to 7) — Archived Subset Repository
 
 > [!NOTE]
-> **Subset Repository Notice:** This repository contains an incomplete subset (Programs 4 to 7) of the Spring Boot laboratory curriculum.
-> The complete educational suite containing all 7 programs, Spring Initializr setup, and dependency documentation is available at:
+> **Archived Repository Notice:** This repository contains an incomplete subset (Programs 4 to 7) of the Spring Boot laboratory curriculum.
+> The complete educational suite containing all 7 programs is actively maintained at:
 > **👉 [StratagemVX/Lab-programs](https://github.com/StratagemVX/Lab-programs)**
 
 ---
 
-## 1. Project Title
-**Spring Boot Lab Programs Subset** (`Lab-Project`) — Partial Programs 4 to 7.
+## Repository Status
 
-## 2. Relationship to Canonical Repository
-- **Current Repository:** `StratagemVX/Lab-Project` (Partial subset).
-- **Canonical Repository:** `StratagemVX/Lab-programs` (Complete 1–7 suite).
-- **Action Status:** Proposed for consolidation & archival upon user confirmation.
+- **Status:** Archived (Read-Only)
+- **Canonical Active Project:** [StratagemVX/Lab-programs](https://github.com/StratagemVX/Lab-programs)
+- **Author:** Chethan Kumar B S (`StratagemVX`)
